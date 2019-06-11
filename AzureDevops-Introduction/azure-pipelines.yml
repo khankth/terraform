@@ -6,7 +6,7 @@ variables:
 - name: vmImageName
   value: 'ubuntu-latest'
 - name: backend_main_secret_file_id1 # secret file used by the following cmdlet Terraform init, plan, apply and destroy 
-  value: 'backend-main-jdld-1.json'
+  value: 'backend-khankth.json'
 - name: ArtifactName
   value: 'AzureDevops-Introduction'
 - name: PackageName1
